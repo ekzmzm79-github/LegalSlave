@@ -1,0 +1,134 @@
+﻿[
+  {
+    "ID": 1,
+    "Name": "전공책",
+    "Dis": "업무능력을 소폭 상승시킨다",
+    "Price": 2000,
+    "Exp": 9,
+    "Heart": 0,
+    "Colleague": 0,
+    "WorkAB": 4,
+    "Stress": 0
+  },
+  {
+    "ID": 2,
+    "Name": "박카스",
+    "Dis": "스트레스를 하락시킨다",
+    "Price": 3000,
+    "Exp": 8,
+    "Heart": 0,
+    "Colleague": 0,
+    "WorkAB": 0,
+    "Stress": -3
+  },
+  {
+    "ID": 3,
+    "Name": "젊은 피",
+    "Dis": "업무능력을 대폭 상승시킨다",
+    "Price": 5000,
+    "Exp": 8,
+    "Heart": 0,
+    "Colleague": 0,
+    "WorkAB": 7,
+    "Stress": 0
+  },
+  {
+    "ID": 4,
+    "Name": "가족사진",
+    "Dis": "모든 스텟을 감소시킨다",
+    "Price": 20000,
+    "Exp": 7,
+    "Heart": -5,
+    "Colleague": -5,
+    "WorkAB": -5,
+    "Stress": -5
+  },
+  {
+    "ID": 5,
+    "Name": "기업 우수상",
+    "Dis": "애사심과 동료관계 소폭 상승",
+    "Price": 100000,
+    "Exp": 5,
+    "Heart": 3,
+    "Colleague": 3,
+    "WorkAB": 7,
+    "Stress": 0
+  },
+  {
+    "ID": 6,
+    "Name": "결혼 반지",
+    "Dis": "여자친구에게 선물할 수 있다",
+    "Price": 5000000,
+    "Exp": 15,
+    "Heart": 0,
+    "Colleague": 0,
+    "WorkAB": 0,
+    "Stress": 0
+  },
+  {
+    "ID": 7,
+    "Name": "사직서",
+    "Dis": "스트레스가 대폭 내려간다",
+    "Price": 150000,
+    "Exp": 5,
+    "Heart": 0,
+    "Colleague": 0,
+    "WorkAB": 0,
+    "Stress": -20
+  },
+  {
+    "ID": 8,
+    "Name": "정리함",
+    "Dis": "업무능력이 대폭 올라간다",
+    "Price": 300000,
+    "Exp": 10,
+    "Heart": 0,
+    "Colleague": 0,
+    "WorkAB": 20,
+    "Stress": 0
+  },
+  {
+    "ID": 9,
+    "Name": "향수",
+    "Dis": "동료관계가 적당히 좋아진다",
+    "Price": 200000,
+    "Exp": 8,
+    "Heart": 0,
+    "Colleague": 10,
+    "WorkAB": 0,
+    "Stress": 0
+  },
+  {
+    "ID": 10,
+    "Name": "자판기 커피",
+    "Dis": "스트레스가 조금 내려간다",
+    "Price": 100,
+    "Exp": 1,
+    "Heart": 0,
+    "Colleague": 10,
+    "WorkAB": 0,
+    "Stress": -3
+  },
+  {
+    "ID": 11,
+    "Name": "인공 눈물",
+    "Dis": "업무능력이 소폭 상승한다",
+    "Price": 30000,
+    "Exp": 7,
+    "Heart": 0,
+    "Colleague": 0,
+    "WorkAB": 5,
+    "Stress": 0
+  },
+  {
+    "ID": 12,
+    "Name": "법인 카드",
+    "Dis": "애사심이 대폭 상승한다",
+    "Price": 500000,
+    "Exp": 5,
+    "Heart": 30,
+    "Colleague": 0,
+    "WorkAB": 0,
+    "Stress": 0
+  }
+]

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 62b8fdd9df0639b4cbea39a8eea8b236
+timeCreated: 1532246235
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MineCrafter 2.0
+  fontNames:
+  - MineCrafter 2.0
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

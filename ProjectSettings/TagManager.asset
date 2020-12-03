@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Character
+  - Item
+  - Gold
+  - Button_right
+  - Button_left
+  - Button_start
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: backgroud
+    uniqueID: 2599923049
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: button
+    uniqueID: 3142237659
+    locked: 0
+  - name: 1
+    uniqueID: 3533738865
+    locked: 0
+  - name: 2
+    uniqueID: 519717579
+    locked: 0
+  - name: 3
+    uniqueID: 2532105169
+    locked: 0
+  - name: 4
+    uniqueID: 354415565
+    locked: 0

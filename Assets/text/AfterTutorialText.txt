@@ -1,0 +1,81 @@
+﻿{
+"TopBox":
+    [
+{
+        "String":"지원 동기가 어떻게 되시죠?"
+        },
+{
+        "String":"왜 우리가 당신을 뽑아야할까요?"
+        },
+{
+        "String":"자신의 단점을 하나만 말해보세요."
+        }
+    ],
+
+"BottomBox":
+    [
+{
+        "String0":"솔직히 말씀드려서 경제적인 이유때문입니다.", "String1":"귀사가 추구하는 가치관이 저와 잘 맞다고 생각하기 때문입니다.", "String2":"제가 가장 잘하고, 전공인 분야이기 때문입니다."
+        },
+{
+        "String0":"저는 업무와 관련된 자격증과 충실한 실무 능력을 가지고 있기 때문입니다.", "String1":"저는 사람과의 커뮤니케이션에는 자신있어서 꼭 필요하리라 생각됩니다.", "String2":"전 언제나 평소 맡은 일에 항상 최선을 다하고 규칙을 잘 준수하는 편이기 때문입니다."
+        },
+{
+        "String0":"신입이라기엔 나이가 조금 많다고 생각합니다...", "String1":"단점이 없는 것이 제 단점입니다!", "String2":"같이 일하는 것보다는 혼자 일하는 것에 익숙하다는 점입니다."
+        }
+
+    ],
+
+"Value0":
+    [
+{
+        "Heart":"-15", "Colleague":"-10", "WorkAB":"0", "Stress":"-15"
+        },
+{
+        "Heart":"0", "Colleague":"0", "WorkAB":"25", "Stress":"0"
+        },
+{
+        "Heart":"0", "Colleague":"0", "WorkAB":"0", "Stress":"15"
+        }
+    ],
+
+"Value1":
+    [
+{
+        "Heart":"15", "Colleague":"10", "WorkAB":"0", "Stress":"15"
+        },
+{
+        "Heart":"0", "Colleague":"25", "WorkAB":"0", "Stress":"0"
+        },
+{
+        "Heart":"0", "Colleague":"-10", "WorkAB":"0", "Stress":"0"
+        }
+    ],
+
+"Value2":
+    [
+{
+        "Heart":"0", "Colleague":"-10", "WorkAB":"15", "Stress":"-5"
+        },
+{
+        "Heart":"10", "Colleague":"0", "WorkAB":"-10", "Stress":"-10"
+        },
+{
+        "Heart":"-10", "Colleague":"0", "WorkAB":"0", "Stress":"0"
+        }
+    ],
+
+"Selection":
+    [
+{
+        "String0":"돈", "String1":"가치관", "String2":"전공 분야"
+        },
+{
+        "String0":"업무능력", "String1":"인간 관계", "String2":"성실함"
+        },
+{
+        "String0":"나이", "String1":"허세", "String2":"팀플"
+        }
+    ]
+
+}

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 50d76c52d051ac54c9a235c7f0fa58b9
+timeCreated: 1528539609
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KoreanYNMYTB
+  fontNames:
+  - KoreanYNMYTB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
